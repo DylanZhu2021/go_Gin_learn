@@ -1,4 +1,4 @@
-module go_code/go_Gin_project/demo01
+module go_code/go_Gin_project
 
 go 1.18
 
